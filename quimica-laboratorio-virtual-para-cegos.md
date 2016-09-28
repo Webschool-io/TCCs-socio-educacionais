@@ -1,8 +1,10 @@
 # Laboratório Virtual para cegos
 
-Aluna:
-Curso:
-Faculdade:
+- Aluna: Emanuely Schinaider
+- Curso: Licenciatura em Química
+- Faculdade: PUC 
+- Cidade: Curitiba
+- Estado: PR
 
 ## Ideia
 
